@@ -303,7 +303,7 @@ const App: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen pb-20 flex flex-col items-center justify-start pt-8 px-4 md:pt-16">
+    <div className="min-h-screen pb-20 flex flex-col items-center justify-start pt-20 px-4 md:pt-16">
       
       {/* Modals & Popups */}
       {showLevelUpModal && (
